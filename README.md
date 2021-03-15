@@ -1,2 +1,1 @@
-# daphnelink-portfolio
-Portfolio and resume site for [daphnelink.com](https://daphnelink.com).
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
