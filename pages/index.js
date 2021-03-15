@@ -41,6 +41,7 @@ export default function Home() {
           <li>React</li>
           <li>React Native</li>
           <li>Expo.io</li>
+          <li>Next.js</li>
         </ul>
       </section>
 
